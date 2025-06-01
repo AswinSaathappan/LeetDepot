@@ -1,0 +1,12 @@
+unsigned int reverseBits(unsigned int n) {
+    unsigned int result = 0;
+    int i;
+
+    for (i = 0; i < 32; i++) {
+        int last_bit = n % 2;       
+        result = result * 2 + last_bit; 
+        n = n / 2;                  
+    }
+
+    return result;
+}
