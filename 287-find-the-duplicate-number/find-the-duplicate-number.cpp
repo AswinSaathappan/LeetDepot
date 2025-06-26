@@ -11,6 +11,6 @@ public:
             }
         }
 
-        return -1;  // No duplicate found (fallback)
+        return -1;  // No duplicate found 
     }
 };
