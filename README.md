@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AswinSaathappan/LeetDepot/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/AswinSaathappan/LeetDepot/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AswinSaathappan/LeetDepot/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AswinSaathappan/LeetDepot/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
