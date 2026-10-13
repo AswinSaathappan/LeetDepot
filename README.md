@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/AswinSaathappan/LeetDepot/tree/master/0761-special-binary-string) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AswinSaathappan/LeetDepot/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AswinSaathappan/LeetDepot/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
