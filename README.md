@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AswinSaathappan/LeetDepot/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/AswinSaathappan/LeetDepot/tree/master/0761-special-binary-string) |
 ## Divide and Conquer
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AswinSaathappan/LeetDepot/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AswinSaathappan/LeetDepot/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AswinSaathappan/LeetDepot/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/AswinSaathappan/LeetDepot/tree/master/0761-special-binary-string) |
 ## Array
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AswinSaathappan/LeetDepot/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AswinSaathappan/LeetDepot/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AswinSaathappan/LeetDepot/tree/master/0268-missing-number) |
 ## Math
 |  |
